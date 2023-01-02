@@ -8,10 +8,10 @@ A Bicep Rep counter kernel built using OpenCV and Mediapipe framework. Each rep 
 
 ## Dependencies
 
-- Mediapipe pip install mediapipe
+- Mediapipe 
 - Pandas
 - Numpy
-- OpenCV pip install opencv-python
+- OpenCV 
 
 ## Sample Output
 
